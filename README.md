@@ -11,12 +11,18 @@ This project analyzes Amazon sales data using SQL and Pyhton.
 
 ## Key Analysis:
 -Revenue Analysis
+
 -Product Analysis
+
 -Customer Analysis
+
 -Monthly Sales Analysis
 
 ## Visualizations:
 -Monthly Revenue Trend
+
 -Top Products Analysis
+
 -Payment Method Distribution
+
 -Order Status Analysis
